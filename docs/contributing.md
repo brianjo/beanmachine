@@ -4,7 +4,7 @@ sidebar_label: Contributing Docs
 slug: contributing
 ---
 
-This document describes how to add and update markdown content that is presented in this Docusaurus 2 project.
+This document describes how to add and update markdown content that is presented in this Docusaurus project.
 
 The static documentation content displayed on this site can be found in the `/docs` folder within the project itself. The folder contains markdown files which are rendered in the Docusaurus 2 UI.
 
